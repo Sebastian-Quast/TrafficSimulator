@@ -1,2 +1,3 @@
 .idea/
 src/main/java/OSMWrapperAPI.java
+src/main/java/BasicAuthenticator.java
